@@ -1,6 +1,6 @@
 # Email Assistant AI
 
-🚧 **Project Status: Under Construction** 🚧
+ **Project Status: Under Construction** 
 
 An intelligent email assistant powered by AI that helps you compose and reply to emails efficiently. This Chrome extension streamlines your email workflow by providing smart suggestions, automated responses, and intelligent email composition capabilities directly in your browser.
 
